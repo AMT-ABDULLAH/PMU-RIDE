@@ -1,0 +1,39 @@
+name: abdullah_s_application2
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  google_maps_flutter: ^2.0.0
+  intl: ^0.18.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Mulish
+      fonts: 
+        - asset: assets/fonts/MulishRomanMedium.ttf
+          weight: 500
+        - asset: assets/fonts/MulishRomanExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/MulishRomanRegular.ttf
+          weight: 400
+        - asset: assets/fonts/MulishRomanBold.ttf
+          weight: 700
+        - asset: assets/fonts/MulishRomanSemiBold.ttf
+          weight: 600
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
