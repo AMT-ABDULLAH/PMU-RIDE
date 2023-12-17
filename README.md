@@ -6,9 +6,6 @@
 - [Check the UI of the entire app](#app-navigations)
 - [Application structure](#project-structure)
 - [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
 
 ### System requirements
 
@@ -46,7 +43,4 @@ application structure should look like this:
   dart format .
   ```
 
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
 
